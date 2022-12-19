@@ -1,0 +1,40 @@
+*** python에 가상환경을 추가해서 사용할것 ***
+
+0. miniconda 다운로드
+
+1. microsoft terminal 다운로드
+
+2. https://windowsterminalthemes.dev/ 에서 원하는 theme 다운로드
+
+3. 환경변수 -> 시스템변수에 miniconda script 파일까지 추가
+ex) C:\Users\BIT\miniconda3\Scripts
+
+4. (관리자권한 powershell에서) Set-ExecutionPolicy RemoteSigned
+
+5. (conda prompt에서) conda init powershell
+
+6. (다운받은 terminal에서) conda config --set auto_activate_base False
+
+7. 
+conda activate
+conda env list
+conda create -n bitacademyml python=3.8    <<<<    가상환경 설치
+conda install numpy
+conda install pandas
+conda install matplotlib
+conda install jupyter
+conda list
+
+8. (생성하려는 source폴더로 간다음 jupyter 실행)
+ex) cd E:\source\python     ---->    jupyter notebook
+
+
+
+- jupyter notebook 기본 사용법
+편집모드
+ctrl + 엔터, shift + 엔터
+shift + tab
+
+커맨드모드
+dd, a, b
+c, v, shift + v
