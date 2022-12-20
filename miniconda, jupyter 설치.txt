@@ -16,7 +16,7 @@ ex) C:\Users\BIT\miniconda3\Scripts
 6. (다운받은 terminal에서) conda config --set auto_activate_base False
 
 7. 
-conda activate
+conda activate <<< (다음 실행할때는 conda activate bitacademyml)
 conda env list
 conda create -n bitacademyml python=3.8    <<<<    가상환경 설치 (install은 경로가 아닌 어느 가상환경에 설치할것인지가 중요)
 conda install numpy
@@ -25,8 +25,11 @@ conda install matplotlib
 conda install jupyter
 conda install scikit-learn
 conda list
+
 pip install mglearn
-(다음 실행할때는 conda activate bitacademyml)
+
+conda install graphviz
+pip install graphviz   --->   (환경변수에서 시스템변수 추가) C:\Users\BIT\miniconda3\envs\ml-env\Lib\site-packages\graphviz
 
 8. (생성하려는 source폴더로 간다음 jupyter 실행)
 ex) cd E:\source\python     ---->    jupyter notebook
