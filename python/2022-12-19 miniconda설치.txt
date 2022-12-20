@@ -18,12 +18,15 @@ ex) C:\Users\BIT\miniconda3\Scripts
 7. 
 conda activate
 conda env list
-conda create -n bitacademyml python=3.8    <<<<    가상환경 설치
+conda create -n bitacademyml python=3.8    <<<<    가상환경 설치 (install은 경로가 아닌 어느 가상환경에 설치할것인지가 중요)
 conda install numpy
 conda install pandas
 conda install matplotlib
 conda install jupyter
+conda install scikit-learn
 conda list
+pip install mglearn
+(다음 실행할때는 conda activate bitacademyml)
 
 8. (생성하려는 source폴더로 간다음 jupyter 실행)
 ex) cd E:\source\python     ---->    jupyter notebook
