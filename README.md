@@ -27,7 +27,8 @@ conda list\
 
 9. (원하는 경로로 간다음) jupyter notebook  <<<<  jupyter 실행
 
-## jupyter 기본사용법
+
+### jupyter 기본사용법
 - 편집모드
   - ctrl + 엔터 = 현재 행 실행
   - shift + 엔터 = 현재 행 실행하고 다음 행 생성
