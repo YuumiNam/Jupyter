@@ -13,6 +13,8 @@
 
 6. (conda prompt에서) conda init powershell
 
-7. (다운받은 terminal에서) conda config --set auto_activate_base False
+7. (다운받은 terminal에서) conda config --set auto_activate_base False 
+
+8. conda activate <<< (다음 실행할때는 conda activate mldl-env) 
 
 9. (원하는 경로로 간다음) jupyter notebook  <<<<  jupyter 실행
