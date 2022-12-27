@@ -14,6 +14,7 @@
 
 7.(다운받은 terminal에서) conda config --set auto_activate_base False
 
+8.
 conda activate <<< (다음 실행할때는 conda activate mldl-env) \
 conda env list \
 conda create -n mldl-env python=3.8  <<<<  가상환경 설치 (install은 경로가 아닌 어느 가상환경에 설치할것인지가 중요) \
