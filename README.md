@@ -26,3 +26,13 @@ conda install scikit-learn\
 conda list\
 
 9. (원하는 경로로 간다음) jupyter notebook  <<<<  jupyter 실행
+
+## jupyter 기본사용법
+- 편집모드
+  - ctrl + 엔터 = 현재 행 실행
+  - shift + 엔터 = 현재 행 실행하고 다음 행 생성
+
+- 커맨드모드
+  - dd = 현재 행 삭제
+  - a = (현재 행 기준) 앞쪽에 새 행 생성
+  - b = (현재 행 기준) 뒤쪽에 새 행 생성
