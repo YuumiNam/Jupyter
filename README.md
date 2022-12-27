@@ -9,11 +9,7 @@
 
 ![miniconda01](https://user-images.githubusercontent.com/114986610/209664244-8a65d0e7-a986-4182-85c4-851c168b3af8.png)
 5. (관리자권한 powershell에서) Set-ExecutionPolicy RemoteSigned
-
 6. (conda prompt에서) conda init powershell
-
 7. (다운받은 terminal에서) conda config --set auto_activate_base False
-
 8. 
-
 9. (원하는 경로로 간다음) jupyter notebook  <<<<  jupyter 실행
