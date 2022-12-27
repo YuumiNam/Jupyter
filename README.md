@@ -15,21 +15,4 @@
 
 7. (다운받은 terminal에서) conda config --set auto_activate_base False
 
-8. 
-conda activate <<< (다음 실행할때는 conda activate mldl-env) \
-conda env list \
-conda create -n mldl-env python=3.8  <<<<  가상환경 설치 (install은 경로가 아닌 어느 가상환경에 설치할것인지가 중요) \
-conda install numpy \
-conda install pandas \
-conda install matplotlib \
-conda install jupyter \
-conda install scikit-learn \
-conda list
-
-pip install mglearn \
-conda install graphviz  --->  (환경변수에서 -> 시스템변수 추가) C:\Users\BIT\miniconda3\envs\ml-env\Lib\site-packages\graphviz
-
-conda install tensorflow \
-conda install seaborn
-
 9. (원하는 경로로 간다음) jupyter notebook  <<<<  jupyter 실행
