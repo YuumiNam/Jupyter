@@ -1,5 +1,5 @@
 ### miniconda & jupyter 설치하는법
-1. <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank">miniconda 다운로드</a>
+1. a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank">miniconda 다운로드</a>
 
 2. <a href="https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=ko-kr&gl=kr" target="_blank">microsoft terminal 다운로드</a>
 
