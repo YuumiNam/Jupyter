@@ -31,6 +31,9 @@ pip install mglearn
 conda install graphviz
 pip install graphviz   --->   (환경변수에서 시스템변수 추가) C:\Users\BIT\miniconda3\envs\ml-env\Lib\site-packages\graphviz
 
+conda install tensorflow
+conda install seaborn
+
 8. (생성하려는 source폴더로 간다음 jupyter 실행)
 ex) cd E:\source\python     ---->    jupyter notebook
 
