@@ -14,7 +14,7 @@
 6. (conda prompt에서) conda init powershell
 
 7. (다운받은 terminal에서) conda config --set auto_activate_base False 
-
+<div>
 8. conda activate <<< (다음 실행할때는 conda activate mldl-env)\
 conda env list\
 conda create -n mldl-env python=3.8    <<<<    가상환경 설치 (install은 경로가 아닌 어느 가상환경에 설치할것인지가 중요)\
@@ -44,7 +44,7 @@ conda install -c conda-forge spacy-model-en_core_web_sm
 -> (Terminal, notebook 다 끄고 다시실행)
 
 conda install -c conda-forge wordcloud
-
+</div>
 9. (원하는 경로로 간다음) jupyter notebook  <<<<  jupyter 실행
 
 
