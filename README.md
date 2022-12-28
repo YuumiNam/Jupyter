@@ -23,20 +23,20 @@ conda install pandas\
 conda install matplotlib\
 conda install jupyter\
 conda install scikit-learn\
-conda list
-pip install mglearn
+conda list <br><br>
+pip install mglearn <br><br>
 conda install graphviz\
-pip install graphviz   --->   (환경변수에서 시스템변수 추가) C:\Users\BIT\miniconda3\envs\mldl-env\Lib\site-packages\graphviz
+pip install graphviz   --->   (환경변수에서 시스템변수 추가) C:\Users\BIT\miniconda3\envs\mldl-env\Lib\site-packages\graphviz <br><br>
 conda install tensorflow\
-conda install seaborn
-자연어 토크나이징
+conda install seaborn <br><br>
+자연어 토크나이징\
 conda install -c anaconda nltk\
-conda install -c conda-forge spacy-model-en_core_web_sm
-한글 토크나이징
+conda install -c conda-forge spacy-model-en_core_web_sm <br><br>
+한글 토크나이징\
 (시스템변수에서) 새로만들기 -> 변수 JAVA_HOME 추가 -> 경로는 C:\Program Files\Java\jdk-12.0.1\
 -> (환경변수편집에서) 새로만들기 -> 변수 %JAVA_HOME%\bin 추가\
 -> (mldl-env들어가서) conda install -c conda-forge jpype1 -> pip install konlpy\
--> (Terminal, notebook 다 끄고 다시실행)
+-> (Terminal, notebook 다 끄고 다시실행) <br><br>
 conda install -c conda-forge wordcloud
 
 9. (원하는 경로로 간다음) jupyter notebook  <<<<  jupyter 실행
