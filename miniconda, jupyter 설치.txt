@@ -44,6 +44,8 @@ conda install -c conda-forge spacy-model-en_core_web_sm
 -> (mldl-env들어가서) conda install -c conda-forge jpype1 -> pip install konlpy
 -> (Terminal, notebook 다 끄고 다시실행)
 
+conda install -c conda-forge wordcloud
+
 8. (생성하려는 source폴더로 간다음 jupyter 실행)
 ex) cd E:\source\python     ---->    jupyter notebook
 
