@@ -33,11 +33,11 @@ pip install graphviz   --->   (환경변수에서 시스템변수 추가) C:\Use
 conda install tensorflow\
 conda install seaborn
 
-- 자연어 토크나이징
+자연어 토크나이징
 conda install -c anaconda nltk\
 conda install -c conda-forge spacy-model-en_core_web_sm
 
-- 한글 토크나이징
+한글 토크나이징
 (시스템변수에서) 새로만들기 -> 변수 JAVA_HOME 추가 -> 경로는 C:\Program Files\Java\jdk-12.0.1\
 -> (환경변수편집에서) 새로만들기 -> 변수 %JAVA_HOME%\bin 추가\
 -> (mldl-env들어가서) conda install -c conda-forge jpype1 -> pip install konlpy\
