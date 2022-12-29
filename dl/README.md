@@ -15,7 +15,7 @@
 ![backpropagation](https://user-images.githubusercontent.com/114986610/209793626-ffafe2d4-699a-4296-b7e3-11f69229cbe2.png)
 
 - 05 경사하강법
-- 
+
 ![화면 캡처 2022-12-28 185907](https://user-images.githubusercontent.com/114986610/209795179-67b1d299-f704-4d8e-bd6e-ad5d5aae88f7.png)
 ![화면 캡처 2022-12-28 185918](https://user-images.githubusercontent.com/114986610/209795088-e6b5fb0c-9e88-42e2-9723-94a6c130e1b0.png)
 ![화면 캡처 2022-12-28 185943](https://user-images.githubusercontent.com/114986610/209795095-534563a8-cc8c-43b7-920d-2e9f735aa84e.png)
