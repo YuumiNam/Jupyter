@@ -26,4 +26,10 @@
 
 ![화면 캡처 2022-12-28 193842](https://user-images.githubusercontent.com/114986610/209799537-e2a94dd4-112d-411e-b25c-7a7b108ff2d3.png)
 
+#### Model_kor 자연어 또한 CNN네트워크층을 적용가능
 
+#### Chap18 시퀀스 배열로 다루는 순환신경망(RNN, LSTM)
+
+#### Chap18-2 LSTM과 CNN의 조합을 이용한 영화리뷰 분류
+
+#### Chap19 세상에 없는 얼굴 GAN, 오토인코더
